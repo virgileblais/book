@@ -1,8 +1,7 @@
 #TODO
 
 ##GENERAL TASKS:
-- [ ] feat(html) create general structure
-- [ ] feat(xcf) create mobile mockup
+- [X] feat(html) create general structure
 - [ ] feat(xcf) adjust header sizing on mobile mockup
 - [ ] feat(html): add meta tags
 - [ ] feat(xcf, png): add favicon
@@ -21,7 +20,7 @@
 - [ ] feat(html, css): create container and placeholder container for booking calendar
 - [ ] feat(html, css): embed booking calendar
 - [ ] feat(html, css): stylize booking calendar
-- [ ] feat(xcf, html, css): add form title and profile picture
+- [ ] feat(xcf, html, css): add profile picture
 - [ ] feat(html): add redirection to confirmation page upon form submission
 
 #REPONSIVENESS:
