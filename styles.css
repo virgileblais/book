@@ -14,6 +14,10 @@ body {
     height: 100%;
 }
 
+.hidden-for-mobile {
+    display: none;
+}
+
 header {
     top: 0;
     width: 100%;
@@ -21,52 +25,12 @@ header {
     height: 5%;
 }
 
-main {
+/* main {
     padding-top: 1rem;
     padding-bottom: 1rem;
     padding-left: 1rem;
     padding-right: 1rem;
     width: 100%;
-    
-    font-size: x-small;
-}
-
-#calendar-section {
-    width: 100%;
-    height: 100%;
-    display: grid;
-}
-
-#calendar-title-container {
-    grid-row: 1 / 2;
-    display: grid;
-    grid-template-columns: auto auto;
-    justify-content: start;
-}
-
-#title {
-    grid-column: 1 / 2;
-    color: #3399ff;
-}
-
-#profile-picture {
-    width: 4rem;
-    grid-column: 2 / 3;
-}
-
-#calendar-container {
-    grid-row: 2 / 3;
-    width: 100%;
-    height: 50vh;
-    background-color: #3399ff;
-    color: white;
-    border-radius: 0.5rem;
-}
-
-/* form {
-    padding-top: 0.5rem;
-    padding-bottom: 0.5rem;
-    display: grid;
 } */
 
 footer {

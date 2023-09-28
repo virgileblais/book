@@ -17,9 +17,7 @@
 
 #MAIN:
 - [X] feat(html, css): create container and placeholder container for booking calendar
-- [ ] feat(html, css): embed booking calendar
-- [ ] feat(html, css): stylize booking calendar
-- [ ] feat(html, css): add profile picture
+- [X] feat(html, css): embed booking calendar
 - [ ] feat(html): add redirection to confirmation page upon form submission
 
 #REPONSIVENESS:
